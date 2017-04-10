@@ -1,7 +1,9 @@
 
 public class Sort {
 	
-	int sort[];
+	public Sort() {
+		super();
+	}
 	
 	
 	public static void BubbleSort( int [ ] num )
